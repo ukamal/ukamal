@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md.Kamal Hossen</h1>
-<h3 align="center">A passionate backend developer (Laravel) from Bangladesh.</h3>
+<h3 align="center">- Proficient in developing web applications using Laravel framework.
+- Strong understanding of AJAX for asynchronous data exchange between the client and server.
+- Extensive experience in designing and implementing database structures using MySQL.
+- Skilled in integrating AJAX with Laravel to create interactive and dynamic user interfaces.
+- Expertise in handling database operations and querying using Laravel's Eloquent ORM, query builder and MySQL.
+- Knowledgeable in optimizing database performance and writing efficient SQL queries.
+- Experienced in implementing real-time features and live updates using AJAX and Laravel.
+- Proficient in working with Laravel's authentication and authorization systems for secure user management with multi-vendor.
+- Familiarity with Laravel's templating engine (Blade) for creating dynamic views.
+- Demonstrated ability to build scalable and maintainable applications using HTML, CSS, Bootstrap, Laravel, AJAX, and MySQL with Linux/Windows & Cpanel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukamal&label=Profile%20views&color=0e75b6&style=flat" alt="ukamal" /> </p>
 
