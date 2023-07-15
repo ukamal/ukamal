@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Laravel development](https://kamalhossen.com/)
 
-- 👨‍💻 All of my projects are available at [https://kamalhossen.com/cv/](https://kamalhossen.com/cv/)
+- 👨‍💻 All of my projects are available at [https://larasoft.info/cv/](https://larasoft.info/cv/)
 
-- 📄 Know about my experiences [https://kamalhossen.com/cv/](https://kamalhossen.com/cv/)
+- 📄 Know about my experiences [https://larasoft.info/](https://larasoft.info/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
