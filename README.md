@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Laravel development](https://larasoft.info/)
 
-- 👨‍💻 All of my projects are available at [https://larasoft.info/cv/](https://larasoft.info/cv/)
+- 👨‍💻 All of my projects are available at [https://ukamal.github.io/cv/](https://ukamal.github.io/cv/)
 
 - 📄 Know about my experiences [https://larasoft.info/](https://larasoft.info/)
 
