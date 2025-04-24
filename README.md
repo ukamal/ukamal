@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukamal&label=Profile%20views&color=0e75b6&style=flat" alt="ukamal" /> </p>
 
-- 🔭 I’m currently working on [Laravel development](https://larasoft.info/)
+- 🔭 I’m currently working on [Laravel development](https://www.freelancer.com/u/mdk644?sb=t)
 
 - 👨‍💻 All of my projects are available at [https://ukamal.github.io/cv/](https://ukamal.github.io/cv/)
 
