@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ukamal.github.io/cv/](https://ukamal.github.io/cv/)
 
-- 📄 Know about my experiences [https://larasoft.info/](https://larasoft.info/)
+- 📄 Know about my experiences [💻 Laravel Developer | 5+ yrs experience | PHP, MySQL, REST APIs](http://biyesadibd.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
