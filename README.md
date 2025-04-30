@@ -5,7 +5,7 @@
 <p>I help businesses build <strong>fast, scalable, and secure web applications</strong> using Laravel.</p>
 
 <ul>
-  <li>✅ 3+ years of hands-on Laravel experience</li>
+  <li>✅ I specialize in <strong>Laravel development</strong> with 3+ years of real-world experience building secure, scalable, and maintainable applications.</li>
   <li>✅ Expert in REST APIs, MySQL, Eloquent ORM</li>
   <li>✅ Skilled in AJAX, dynamic admin panels & multi-vendor systems</li>
   <li>✅ Proficient in authentication, Blade templating, and backend logic</li>
