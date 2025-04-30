@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Md.Kamal Hossen</h1>
-<p align="center">#Proficient in developing web applications using Laravel framework.
-#Strong understanding of AJAX for asynchronous data exchange between the client and server.
-#Extensive experience in designing and implementing database structures using MySQL.
-#Skilled in integrating AJAX with Laravel to create interactive and dynamic user interfaces.
-#Expertise in handling database operations and querying using Laravel's Eloquent ORM, query builder and MySQL.
-#Proficient in working with Laravel's authentication and authorization systems for secure user management with multi-vendor.
-#Familiarity with Laravel's templating engine (Blade) for creating dynamic views.
-#Demonstrated ability to build scalable and maintainable applications using HTML, CSS, Bootstrap, Laravel, AJAX, and MySQL with Linux/Windows & Cpanel.</p>
+
+<h1>Laravel Web Developer | REST API Expert | Admin Panel Specialist</h1>
+
+<p>I help businesses build <strong>fast, scalable, and secure web applications</strong> using Laravel.</p>
+
+<ul>
+  <li>✅ 3+ years of hands-on Laravel experience</li>
+  <li>✅ Expert in REST APIs, MySQL, Eloquent ORM</li>
+  <li>✅ Skilled in AJAX, dynamic admin panels & multi-vendor systems</li>
+  <li>✅ Proficient in authentication, Blade templating, and backend logic</li>
+</ul>
+
+<p>Let’s work together to bring your idea to life.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukamal&label=Profile%20views&color=0e75b6&style=flat" alt="ukamal" /> </p>
 
