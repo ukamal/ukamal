@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Kamal Hossen</h1>
 
-<h3>Laravel Web Developer | REST API Expert | Admin Panel Specialist</h3>
+<h3>Laravel Web Developer | REST API Expert | Admin Panel Specialist | Open for work.</h3>
 
 <p>I help businesses build <strong>fast, scalable, and secure web applications</strong> using Laravel.</p>
 
